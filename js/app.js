@@ -5,8 +5,6 @@ var price = [44.44, 22.14, 16.99, 17.02];
 var description = ['Spin your wheel with this quattro cheese mix doused in garlic and truffle oil. Loop there it is!', 'This island favorite doesn\'t give you a chance to say no. Korean bulgogi meat, kim chee, mozzarella cheese and onions always returns true! Boo~Ya!', 'This dynamic blend of Duck, Olives and Mango will change your original thought of what a pizza should be. The only thing constant is change for this bad boy!', 'Create your own pie by passing in handpicked fresh ingredients. Invoke your appetite and creativity! Mamma Mia return back to glory!'];
 
 
-
-
 var forLoop = {
   price: 44.44,
   description: 'Spin your wheel with this quattro cheese mix doused in garlic and truffle oil. Loop there it is!'
